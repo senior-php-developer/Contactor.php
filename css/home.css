@@ -1,0 +1,12 @@
+#login-box {margin:80px auto; width:300px; background: #eeeeee; border: 1px solid #CC6600; padding: 20px;}
+#login-box .title {font-size: 30px; font-weight: bold; color: #CC6600;}
+#login-box input {font-size:25px; padding:5px 10px; width: 275px;}
+#forgot {font-size: 20px; float: right; color: #CC6600 !important;}
+#pass {position: absolute;}
+
+.btn3 {background:#EEEEEE; border:1px solid #AAAAAA; color:#555555; font-size:22px; padding:5px 10px; cursor: pointer; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+.btn3:hover {background: #CC6600; border: 1px solid #CC6600; color: #fff;}
+
+
+.welcome {width: 500px; margin: 20px auto; background-color: #fff; border: 1px solid #CC6600; padding: 30px 20px;}
+.welcome p {line-height: 150%; margin: 6px 0;}

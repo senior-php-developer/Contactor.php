@@ -1,0 +1,12 @@
+#operations {padding: 10px 20px; border: 1px solid #009bf2; width: 500px; margin: 0 auto; display: none; background: #fff;}
+
+#twitters {width: 450px; margin: 0 auto; position: relative; padding-top: 20px; margin-top: 20px;}
+.twt-box {max-height: 450px; overflow: auto; display: none;}
+.tweet {width: 400px; padding: 10px; margin-bottom: 5px;}
+.tweet img {max-width: 50px;}
+.tweet .text {width: 340px;}
+#tabs2 {position: absolute; top: -20px; padding: 5px;}
+#tabs2 a {background:none repeat scroll 0 0 #444444; color:#FFFFFF; padding:4px 8px; margin-right: 5px;}
+
+.acc-table {margin:0 auto;text-align:left;width:400px;margin-top:10px;}
+.acc-table table {width: 100%;}

@@ -1,0 +1,47 @@
+#operations {padding: 10px 20px; border: 1px solid #CC6600; width: 700px; margin: 0 auto; display: none; background: #fff;}
+#operations th {text-align: left;}
+#operations select {}
+#operations .search {width:615px;}
+#operations .inp {width: 160px;}
+#operations button {padding: 2px 6px;}
+#operations td, #operations th {padding: 3px;  vertical-align: top;}
+#operations textarea {width: 337px; height: 116px;}
+#operations h4 {font-size: 19px; color: #999;}
+
+.head-row th {background: #CC6600; color: #fff; }
+.even-row td {background: #eee;}
+
+#contacts {padding: 10px 20px; border: 1px solid #CC6600; background: #fff;}
+#contact-table {max-height: 475px; overflow: auto; border:1px solid #777777; font-size: 14px;}
+#contact-table table {width: 100%;}
+#contacts td {border-bottom: 1px solid #777;}
+#contacts th {text-align: left; padding: 5px; padding-left: 20px; cursor: pointer;}
+#contacts th:hover {text-decoration: underline;}
+#contacts tr.even td {background: #ddefff;}
+#contacts tr:hover td {cursor: pointer; background: #FEEED6 !important;}
+#contacts button {margin-left: 10px; padding: 1px 6px;}
+#contacts .cont-btns {display: none;}
+#contacts .cont-btns img {position: relative; top: 3px; margin-right: 4px;}
+
+.headerSortUp {background: #CC6600 url(../img/arrow-up.png) no-repeat left center !important;}
+.headerSortDown {background: #CC6600 url(../img/arrow-down.png) no-repeat left center !important;}
+#pager {margin-bottom: 10px;}
+#pager img {position:relative; top:2px;}
+#pager .pagedisplay {width: 50px;}
+
+#details {margin:0 auto; width:880px;}
+#information {border:1px solid #CC6600; background: #fff; float:left; width:520px; padding: 10px; line-height: 140%;}
+#information .title {font-weight: bold; text-align: right; padding-left: 10px;}
+#information .error {color:#FF6666; margin:20px 0; text-align:center;}
+#information select {margin-bottom:10px; width: 200px;}
+#information .cont {max-width: 520px; overflow: auto;}
+#information .addr {display: none;}
+#information .addr .address {line-height: 160%;}
+
+
+#map {border:1px solid #CC6600; background: #fff; float:left; margin-left:20px; width:280px; padding: 15px; text-align: center;}
+#map img {border: 1px solid #999;}
+
+#photos {border:1px solid #CC6600; background: #fff; float: left; height:100px; width:520px; padding: 10px; margin-top: 15px;}
+#sendMail {background: #fff; border: 3px solid #444; width: 340px; position: fixed; display: none; -moz-border-radius: 5px; -webkit-border-radius: 5px; -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); z-index: 1005; padding: 15px;}
+#sendMail textarea {width: 330px; height: 200px; margin: 10px 0;}

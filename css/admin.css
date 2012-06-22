@@ -1,0 +1,12 @@
+#operations {padding: 10px 20px; border: 1px solid #CC6600; width: 520px; margin: 0 auto; display: none; background: #fff;}
+#operations .btn {padding: 2px 4px;}
+#user-list {width: 700px; margin: 0 auto; padding: 10px 20px; border: 1px solid #CC6600; background: #fff;}
+#userlist-table {width:100%;max-height: 475px; overflow: auto; border:1px solid #777777; font-size: 14px;}
+#userlist-table table {width: 100%;}
+#userlist-table td {border-bottom: 1px solid #777; cursor: pointer; height: 20px;}
+#userlist-table th {text-align: left; padding: 5px; padding-left: 14px; cursor: pointer; background: #CC6600; color: #fff;}
+#userlist-table .cont-btns {display: none;}
+
+#pager {margin-left: 133px;}
+.headerSortUp {background: #CC6600 url(../img/arrow-up.png) no-repeat left center !important;}
+.headerSortDown {background: #CC6600 url(../img/arrow-down.png) no-repeat left center !important;}
